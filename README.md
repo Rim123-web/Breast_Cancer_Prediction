@@ -27,7 +27,7 @@ The main steps of this project include:
      * `perimeter_worst`
      * `radius_worst`
    * The remaining 14 features are predicted automatically using **Random Forest regression models** (feature imputation).
-   * The complete 17-feature vector is then used by the **main Random Forest classifier** with the accuracy of 96% to predict whether the patient has cancer.
+   * The complete 17-feature vector is then used by the **main Random Forest classifier** with the accuracy of 94% to predict whether the patient has cancer.
 
 4. **Prediction**
 
